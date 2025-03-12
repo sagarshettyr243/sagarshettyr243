@@ -8,33 +8,30 @@ Based in Mangalore, Karnataka, India, I'm currently honing my skills as a DevOps
 ## 🛠️ DevOps Tools & Technologies | Cloud Infrastructure  
 
 ### **Cloud Providers**  
-![AWS](https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png)  
-![Azure](https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png)  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="40"/>  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="40"/>  
 
 ### **CI/CD & Version Control**  
-![Jenkins](https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png)  
-![Maven](https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png)  
-![SonarQube](https://raw.githubusercontent.com/github/explore/main/topics/sonarqube/sonarqube.png)  
-![Trivy](https://upload.wikimedia.org/wikipedia/commons/3/39/Aqua_Security_logo.svg)  
-![Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)  
-![GitHub](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" width="40"/>  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png" alt="Maven" width="40"/>  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sonarqube/sonarqube.png" alt="SonarQube" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Aqua_Security_logo.svg" alt="Trivy" width="40"/>  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>  
 
-### **Containerization & Orchestration**  
-![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png)  
-![Kubernetes](https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png)  
+---
 
-### **Monitoring**  
-![CloudWatch](https://raw.githubusercontent.com/github/explore/main/topics/aws-cloudwatch/aws-cloudwatch.png)  
-![Prometheus](https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png)  
-![Grafana](https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png)  
+This will render small images (40px width). You can adjust the `width="40"` to make them bigger or smaller.
 
-### **Infrastructure as Code (IaC)**  
-![Terraform](https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png)  
+### **Alternative: One-Line Image Format**
+If you want all icons in one line:
 
-### **Configuration Management**  
-![Ansible](https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png)  
-
-### **Scripting**  
-![Shell Scripting](https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png)  
-
-
+```html
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png" alt="Maven" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sonarqube/sonarqube.png" alt="SonarQube" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Aqua_Security_logo.svg" alt="Trivy" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>
+</p>
