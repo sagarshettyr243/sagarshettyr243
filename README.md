@@ -7,25 +7,6 @@ Based in Mangalore, Karnataka, India, I'm currently honing my skills as a DevOps
 
 ## 🛠️ DevOps Tools & Technologies | Cloud Infrastructure  
 
-### **Cloud Providers**  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="40"/>  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="40"/>  
-
-### **CI/CD & Version Control**  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" width="40"/>  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png" alt="Maven" width="40"/>  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sonarqube/sonarqube.png" alt="SonarQube" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Aqua_Security_logo.svg" alt="Trivy" width="40"/>  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>  
-
----
-
-This will render small images (40px width). You can adjust the `width="40"` to make them bigger or smaller.
-
-### **Alternative: One-Line Image Format**
-If you want all icons in one line:
-
-```html
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="40"/>
@@ -35,3 +16,5 @@ If you want all icons in one line:
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Aqua_Security_logo.svg" alt="Trivy" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>
 </p>
+
+
